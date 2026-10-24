@@ -10,21 +10,22 @@ These drafts are ordered by likely retrieval difficulty. No turnaround is guaran
 4. [SR-TAD-76-1 Exhibits 2–3 and the single written participant response](sr-tad-76-1-exhibits.md)
 5. [October 21, 1980 Moskowitz withdrawal letter and BNC reaffirmation](moskowitz-1980-withdrawal.md)
 6. [SR-NSCC-77-8 comment letters](sr-nscc-77-8-comment-letters.md)
+7. [NASD's October 5, 1981 letter extending fingerprinting services to registered bank transfer agents](nasd-1981-bank-transfer-agent-fingerprinting-letter.md)
 
 The first and fifth requests intentionally duplicate small, specifically identified portions of the larger File Nos. 600-15 and 600-13 requests below so that those documents can be retrieved without waiting for a complete archival file search.
 
 ## Priority 2 — bounded filing packages
 
-7. [July 22, 1975 NCC–TAD interface filing package](1975-ncc-tad-interface.md)
-8. [Complete SR-TAD filing series](sr-tad-filing-series.md)
+8. [July 22, 1975 NCC–TAD interface filing package](1975-ncc-tad-interface.md)
+9. [Complete SR-TAD filing series](sr-tad-filing-series.md)
 
 These are discrete filing packages, but they may contain enough exhibits, technical material, or associated correspondence to require more archival work than the requests above.
 
 ## Priority 3 — large or open-ended archival searches
 
-9. [Complete TAD clearing-agency registration File No. 600-13](file-600-13-tad-registration.md)
-10. [Complete 1976 NSCC registration proceeding — File No. 600-15](file-600-15-1976-nscc-registration.md)
-11. [Complete 1978 national clearance and settlement hearing record — File No. 600-15](file-600-15-hearings.md)
-12. [NSCC–TAD interface negotiations and linking records](nscc-tad-interface-negotiations.md)
+10. [Complete TAD clearing-agency registration File No. 600-13](file-600-13-tad-registration.md)
+11. [Complete 1976 NSCC registration proceeding — File No. 600-15](file-600-15-1976-nscc-registration.md)
+12. [Complete 1978 national clearance and settlement hearing record — File No. 600-15](file-600-15-hearings.md)
+13. [NSCC–TAD interface negotiations and linking records](nscc-tad-interface-negotiations.md)
 
 These searches are intentionally comprehensive and should not be relied upon for receipt before November 3, 2026.
