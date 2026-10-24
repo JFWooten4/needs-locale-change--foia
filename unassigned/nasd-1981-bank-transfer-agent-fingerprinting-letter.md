@@ -8,7 +8,7 @@ Please search the Division of Market Regulation's records concerning Securities 
 
 ## Source identifying the record
 
-The SEC's notice in [Securities Exchange Act Release No. 34-18170, 46 FR 51692–51693 (October 21, 1981)](https://www.govinfo.gov/content/pkg/FR-1981-10-21/pdf/FR-1981-10-21.pdf#page=149) identifies the October 5, 1981 Wall-to-Weinberg letter in a footnote supporting the Commission's statement that NASD had confirmed it would extend fingerprint-card services to registered bank transfer agents under its existing plan. The notice states an effective date of October 13, 1981.
+The SEC's notice in [Securities Exchange Act Release No. 34-18170, 46 FR 51692–51693 (October 21, 1981)](https://www.govinfo.gov/content/pkg/FR-1981-10-21/pdf/FR-1981-10-21.pdf) identifies the October 5, 1981 Wall-to-Weinberg letter in a footnote supporting the Commission's statement that NASD had confirmed it would extend fingerprint-card services to registered bank transfer agents under its existing plan. The notice states an effective date of October 13, 1981.
 
 This letter is particularly relevant to distinguishing NASD's existing fingerprinting services for **non-bank transfer agents** from the **1981 extension to bank transfer agents**.
 
